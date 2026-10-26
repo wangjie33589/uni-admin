@@ -1,0 +1,1 @@
+{"bsonType":"object","required":[],"permission":{"read":true,"create":"'admin' in auth.role","update":"'admin' in auth.role","delete":"'admin' in auth.role"},"properties":{"_id":{"description":"ID，系统自动生成"}}}
